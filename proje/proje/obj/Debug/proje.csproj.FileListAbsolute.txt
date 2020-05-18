@@ -1,0 +1,11 @@
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\bin\Debug\proje.exe.config
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\bin\Debug\proje.exe
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\bin\Debug\proje.pdb
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\obj\Debug\proje.csprojAssemblyReference.cache
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\obj\Debug\proje.Form1.resources
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\obj\Debug\proje.Form2.resources
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\obj\Debug\proje.exe
+C:\Users\Anıl TÜRKDOĞAN\Desktop\proje\proje\obj\Debug\proje.pdb
